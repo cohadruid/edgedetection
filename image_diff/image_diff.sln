@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "image_diff", "image_diff\image_diff.vcxproj", "{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Debug|x64.ActiveCfg = Debug|x64
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Debug|x64.Build.0 = Debug|x64
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Debug|x86.Build.0 = Debug|Win32
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Release|x64.ActiveCfg = Release|x64
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Release|x64.Build.0 = Release|x64
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Release|x86.ActiveCfg = Release|Win32
+		{A6DA9399-B10E-4ECF-B2D5-F3B63BAE988D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C27BFB-E91E-4582-AA6B-EC753BB79F02}
+	EndGlobalSection
+EndGlobal
